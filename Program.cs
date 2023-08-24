@@ -7,7 +7,7 @@
 
         for (int t = 1; t <= N; t++) {
             var result = SolveCase(lines[t]);
-            System.Console.WriteLine("Case #" + t + ": " + result);
+            Console.WriteLine("Case #" + t + ": " + result);
         }
     }
 
